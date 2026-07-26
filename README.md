@@ -1,31 +1,38 @@
-# Building practical tools for QA, diagnostics, and everyday workflows
+# Mostafa Shahriar Hasan
 
-I'm a QA-focused software builder interested in products that collect verifiable evidence, keep user data on-device, and turn technical workflows into clear interfaces and reports.
+**SQA / Tester · R&D Engineer**
 
-My recent work spans Windows desktop applications, Android diagnostics, browser tooling, test automation, and small web experiences.
+I work at the intersection of software quality, monitoring, Linux operations, and network/ISP infrastructure. My day-to-day work includes testing web and Android applications, monitoring servers and network devices, troubleshooting incidents, and improving operational visibility.
 
-## Current focus
+I am not primarily a software developer. I build applications and tools for practice, personal R&D, exploring ideas, and understanding systems more deeply.
 
-- QA tooling and repeatable test workflows
-- Local-first hardware and network diagnostics
-- Clear evidence, privacy boundaries, and honest product limitations
-- Desktop and mobile applications that remain useful without an account or backend
+[LinkedIn](https://www.linkedin.com/in/mostafa-shahriar-hasan-83038a10b/) · [All repositories](https://github.com/shasan731?tab=repositories)
 
-## Featured work
+## What I work with
 
-| Project | What it does | Core technology |
+- Manual, regression, exploratory, and automation testing
+- Monitoring and observability with Zabbix, SNMP, and Grafana
+- Linux, Docker, Nginx, MikroTik, FreeRADIUS, and MySQL
+- Root-cause analysis across application, server, and network layers
+- R&D prototypes and practical tools that reduce manual work
+
+## Featured experiments and projects
+
+| Project | What it explores | Technology |
 | --- | --- | --- |
-| [Laptop Inspector](https://github.com/shasan731/laptopinspector) | Guides used-laptop inspections, collects read-only Windows evidence, and exports structured PDF reports. | C#, .NET, WPF, SQLite |
-| [BugSnap QA](https://github.com/shasan731/bugsnap) | Captures, annotates, and exports structured bug reports from a local-first Chrome extension. | TypeScript, Chrome Extensions |
-| [Network Investigator](https://github.com/shasan731/network-investigator) | Collects evidence across DNS, TCP, HTTP, TLS, Wi-Fi, LAN discovery, routes, and connectivity changes. | Kotlin, Jetpack Compose, Room |
-| [Used Phone Inspection Assistant](https://github.com/shasan731/inspector) | Supports guided used-phone and tablet inspections with local history, evidence, and PDF reports. | Kotlin, Jetpack Compose, CameraX |
+| [Laptop Inspector](https://github.com/shasan731/laptopinspector) | Guided used-laptop inspection, automated Windows evidence, battery health, local history, and PDF reporting. | C#, .NET, WPF, SQLite |
+| [Hansel & Gretel: The Silver Trail](https://github.com/shasan731/hansel-gratel-game) | A family-friendly storybook puzzle adventure with a complete campaign and offline support. | TypeScript, Phaser 3, Vite, PWA |
 | [Office Hunt](https://github.com/shasan731/office-hunt) | A seven-level browser adventure with original retro visuals and no backend or tracking. | TypeScript, Phaser 3, Vite |
-| [SauceDemo UI Tests](https://github.com/shasan731/saucedemo) | Exercises end-to-end shopping flows with page objects and automated reports. | C#, .NET 8, xUnit, Selenium, Allure |
+| [MediTrack](https://github.com/shasan731/med-schedular) | An offline-first medication manager with reminders, dose history, schedules, and stock tracking. | Kotlin, Jetpack Compose, Room, WorkManager |
+| [BugSnap QA](https://github.com/shasan731/bugsnap) | A local-first browser extension for capturing, annotating, and exporting structured bug reports. | TypeScript, Chrome Extensions |
+| [KajLagbe](https://github.com/shasan731/KajLagbe) | A Bangladesh-focused marketplace concept for renting tools and hiring local skills. | Next.js, TypeScript, Prisma, PostgreSQL |
+| [Hisab](https://github.com/shasan731/tracker) | A mobile-first personal-finance PWA for expenses, shared costs, informal loans, and recurring bills. | React, TypeScript, Vite, PostgreSQL |
 
-## Working toolkit
+These are learning, practice, R&D, and personal-idea projects—not a claim that software development is my primary professional role.
 
-`C#` · `.NET` · `WPF` · `xUnit` · `Selenium` · `Kotlin` · `Jetpack Compose` · `TypeScript` · `SQLite / Room` · `GitHub Actions`
+## Background
 
-I care about practical UX, transparent diagnostics, maintainable automation, and documentation that tells users exactly what a product can—and cannot—prove.
-
-[Browse all repositories →](https://github.com/shasan731?tab=repositories)
+- R&D Lead Engineer at Softifybd Limited
+- BSc in Computer Science and Engineering, Eastern University
+- SQA: Manual & Automated Testing — Ostad
+- Creating Automated Browser Tests with Selenium in C# — Pluralsight
