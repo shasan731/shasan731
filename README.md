@@ -1,38 +1,65 @@
-# Mostafa Shahriar Hasan
+# Hi, I'm Mostafa 👋
 
-**SQA / Tester · R&D Engineer**
+### SQA / Tester · R&D Engineer · Curious systems investigator
 
-I work at the intersection of software quality, monitoring, Linux operations, and network/ISP infrastructure. My day-to-day work includes testing web and Android applications, monitoring servers and network devices, troubleshooting incidents, and improving operational visibility.
+> I enjoy finding what breaks, understanding why, and making the next investigation easier.
 
-I am not primarily a software developer. I build applications and tools for practice, personal R&D, exploring ideas, and understanding systems more deeply.
+My work lives where **software quality**, **monitoring**, **Linux operations**, and **network/ISP infrastructure** overlap. I test web and Android applications, monitor servers and network devices, investigate incidents, and look for clearer ways to see what is really happening.
 
-[LinkedIn](https://www.linkedin.com/in/mostafa-shahriar-hasan-83038a10b/) · [All repositories](https://github.com/shasan731?tab=repositories)
+Software development is not my primary role. I build apps because it is one of my favorite ways to practice QA, explore ideas, learn new systems, and turn personal R&D questions into something testable.
 
-## What I work with
+[Connect on LinkedIn](https://www.linkedin.com/in/mostafa-shahriar-hasan-83038a10b/) · [Explore all repositories](https://github.com/shasan731?tab=repositories)
 
-- Manual, regression, exploratory, and automation testing
-- Monitoring and observability with Zabbix, SNMP, and Grafana
-- Linux, Docker, Nginx, MikroTik, FreeRADIUS, and MySQL
-- Root-cause analysis across application, server, and network layers
-- R&D prototypes and practical tools that reduce manual work
+## What keeps me curious
 
-## Featured experiments and projects
+- 🧪 **Testing:** manual, exploratory, regression, web, Android, and test automation
+- 🔎 **Investigating:** defect analysis, incident troubleshooting, logs, and root-cause analysis
+- 📡 **Monitoring:** Zabbix, SNMP, Grafana, servers, network devices, and operational visibility
+- 🐧 **Operating:** Linux, Docker, Nginx, MikroTik, FreeRADIUS, MySQL, and ISP infrastructure
+- 🛠️ **Experimenting:** practical tools, playful prototypes, and ideas that reduce repetitive work
 
-| Project | What it explores | Technology |
-| --- | --- | --- |
-| [Laptop Inspector](https://github.com/shasan731/laptopinspector) | Guided used-laptop inspection, automated Windows evidence, battery health, local history, and PDF reporting. | C#, .NET, WPF, SQLite |
-| [Hansel & Gretel: The Silver Trail](https://github.com/shasan731/hansel-gratel-game) | A family-friendly storybook puzzle adventure with a complete campaign and offline support. | TypeScript, Phaser 3, Vite, PWA |
-| [Office Hunt](https://github.com/shasan731/office-hunt) | A seven-level browser adventure with original retro visuals and no backend or tracking. | TypeScript, Phaser 3, Vite |
-| [MediTrack](https://github.com/shasan731/med-schedular) | An offline-first medication manager with reminders, dose history, schedules, and stock tracking. | Kotlin, Jetpack Compose, Room, WorkManager |
-| [BugSnap QA](https://github.com/shasan731/bugsnap) | A local-first browser extension for capturing, annotating, and exporting structured bug reports. | TypeScript, Chrome Extensions |
-| [KajLagbe](https://github.com/shasan731/KajLagbe) | A Bangladesh-focused marketplace concept for renting tools and hiring local skills. | Next.js, TypeScript, Prisma, PostgreSQL |
-| [Hisab](https://github.com/shasan731/tracker) | A mobile-first personal-finance PWA for expenses, shared costs, informal loans, and recurring bills. | React, TypeScript, Vite, PostgreSQL |
+## Projects from my lab
 
-These are learning, practice, R&D, and personal-idea projects—not a claim that software development is my primary professional role.
+### 🔍 QA, inspection, and evidence
 
-## Background
+- **[Laptop Inspector](https://github.com/shasan731/laptopinspector)** — Guided used-laptop inspection with automated Windows evidence, battery-health analysis, local history, and polished PDF reports.  
+  `C#` · `.NET` · `WPF` · `SQLite`
 
-- R&D Lead Engineer at Softifybd Limited
-- BSc in Computer Science and Engineering, Eastern University
-- SQA: Manual & Automated Testing — Ostad
-- Creating Automated Browser Tests with Selenium in C# — Pluralsight
+- **[BugSnap QA](https://github.com/shasan731/bugsnap)** — A local-first Chrome extension for capturing, annotating, and exporting structured bug reports.  
+  `TypeScript` · `Chrome Extensions`
+
+### 🌱 Useful personal experiments
+
+- **[MediTrack](https://github.com/shasan731/med-schedular)** — An offline-first Android medication manager with reminders, dose history, schedules, and stock tracking.  
+  `Kotlin` · `Jetpack Compose` · `Room` · `WorkManager`
+
+- **[Hisab](https://github.com/shasan731/tracker)** — A mobile-first personal-finance PWA for expenses, shared costs, informal loans, and recurring bills.  
+  `React` · `TypeScript` · `Vite` · `PostgreSQL`
+
+- **[KajLagbe](https://github.com/shasan731/KajLagbe)** — A Bangladesh-focused marketplace concept for renting tools and hiring local skills.  
+  `Next.js` · `TypeScript` · `Prisma` · `PostgreSQL`
+
+### 🎮 Builds made for fun
+
+- **[Hansel & Gretel: The Silver Trail](https://github.com/shasan731/hansel-gratel-game)** — A family-friendly storybook puzzle adventure with a complete campaign and offline PWA support.  
+  `TypeScript` · `Phaser 3` · `Vite` · `PWA`
+
+- **[Office Hunt](https://github.com/shasan731/office-hunt)** — A seven-level browser adventure with original retro visuals and no backend or tracking.  
+  `TypeScript` · `Phaser 3` · `Vite`
+
+> These are learning, practice, personal-idea, and R&D projects—not a claim that software development is my primary professional role. I build to explore, and I test what I build.
+
+## Areas you can find me exploring
+
+`Software Quality Assurance` · `QA Engineering` · `Manual Testing` · `Exploratory Testing` · `Regression Testing` · `Test Automation` · `Selenium` · `Web Testing` · `Android Testing` · `Zabbix` · `SNMP` · `Linux Administration` · `Network Monitoring` · `ISP Operations` · `Incident Troubleshooting` · `Root-Cause Analysis`
+
+## A little background
+
+- R&D Lead Engineer at **Softifybd Limited**
+- BSc in Computer Science and Engineering — **Eastern University**
+- **SQA: Manual & Automated Testing** — Ostad
+- **Creating Automated Browser Tests with Selenium in C#** — Pluralsight
+
+## Let's compare notes
+
+Working on something involving QA, monitoring, Linux, networks, or an interesting system mystery? [Say hello on LinkedIn](https://www.linkedin.com/in/mostafa-shahriar-hasan-83038a10b/).
